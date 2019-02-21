@@ -221,6 +221,7 @@ export default {
     > .showii-item-wrapper__footer--date {
       line-height: 31px;
       text-transform: uppercase;
+      margin-left: 55px;
     }
 
     .icon {
